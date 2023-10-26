@@ -1,7 +1,7 @@
 ### Fala galera 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-jr12vitor@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jr12vitor@gmail.com)](mailto:jr12vitor@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Jo%C3%A3o%20V%C3%ADtor%20Souto-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-vitor-souto/)](https://www.linkedin.com/in/jos%C3%A9-vitor-freitas-cunha-5b326526a/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Jo%C3%A3o%20V%C3%ADtor%20Souto-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-vitor/)](https://www.linkedin.com/in/jos%C3%A9-vitor-freitas-cunha-5b326526a/)
 
 🎓 Me chamo José Vitor e sou Técnico em Informática habilitado pelo Instituto Federal de Ciência e Tecnologia do Rio Grande do Norte (IFRN) - de 2015 a 2018, realizado junto ao ensino médio. Além disso, sou bacharel em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN) - 2019 a 2022 e atualmente estou cursando Engenharia de software pela UFRN desde 2023.
 
